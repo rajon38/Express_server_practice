@@ -1,0 +1,1 @@
+const Catagory=require('../models/category');
